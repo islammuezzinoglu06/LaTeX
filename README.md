@@ -8,4 +8,4 @@ https://miktex.org/download adresinden İşletim sisteminize uygun uygulamayı i
 Ben Windows için "basic-miktex-23.10-x64.exe" indirdim.
 Aşağıda ki görüntüleri takip ederek kurulumu yapabilirsiniz.
 
-![_](/LaTeX/src/installationSteps/1.png)
+(/LaTeX/src/installationSteps/1.png)
